@@ -8,7 +8,7 @@
 
 //DONT BE STUPID
 
-//3vil Mailer by Z3ROSOM3 is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License,
+//3vil Mailer by nDemon is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License,
 //for more information see http://creativecommons.org/licenses/by-sa/4.0/
 
 //REMEMBER, DONT BE STUPID!!!
@@ -58,7 +58,7 @@ if(isset($_POST['to'])
 		<title>3vil Mailer</title>
 	</head>
 	<body text=#001547>
-	    <p1>3vil mailer by </p1>&#7828;<p1>3ROSOM3</p1>
+	    <p1>3vil mailer by nDemon</p1>
 	    <FONT COLOR="#ff0000">Don't Do Anything Stupid! !p</FONT>
 		<?php echo $mail; ?>
 		<form action="index.php" method="post">
